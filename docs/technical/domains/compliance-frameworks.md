@@ -64,18 +64,37 @@ Annexes
 
 ```
 Functions (4)
-└── Categories
+└── Categories (19)
     └── Subcategories
         ├── Implementation Details
         ├── Evidence Links
         └── Risk Links
 ```
 
-**Four Core Functions:**
+**Four Core Functions and Categories (NIST AI RMF 1.0):**
 - **GOVERN** - Establish policies, processes, accountability
+  - GOVERN 1: Policies, processes, procedures, and practices across organizational components
+  - GOVERN 2: Accountability structures and roles clearly defined and enacted
+  - GOVERN 3: Workforce diversity, equity, inclusion, and accessibility prioritized
+  - GOVERN 4: Organizational practices aligned with organizational values and principles
+  - GOVERN 5: Robust engagement with relevant external stakeholders
+  - GOVERN 6: Policies and procedures for third-party AI system risks
 - **MAP** - Identify AI systems and risk context
+  - MAP 1: Context is understood and documented
+  - MAP 2: Categorization of the AI system is performed
+  - MAP 3: AI capabilities, targeted usage, and potential impacts are understood
+  - MAP 4: Risks and benefits mapped for all components of the AI system
+  - MAP 5: Impacts to individuals, groups, communities, organizations, and society mapped
 - **MEASURE** - Assess, analyze, track risks
+  - MEASURE 1: Appropriate methods and metrics are identified and applied
+  - MEASURE 2: AI systems are evaluated for trustworthiness
+  - MEASURE 3: Mechanisms for tracking risks and impacts over time are implemented
+  - MEASURE 4: Feedback about operational context and impacts is gathered and analyzed
 - **MANAGE** - Prioritize, respond to, monitor risks
+  - MANAGE 1: AI risks based on assessments and other analytical output are prioritized and acted upon
+  - MANAGE 2: Strategies to maximize AI benefits and minimize negative impacts are planned and implemented
+  - MANAGE 3: AI risks and impacts from third-party entities are managed
+  - MANAGE 4: Risk treatments and responses are regularly monitored and adjusted
 
 ## Database Models
 
